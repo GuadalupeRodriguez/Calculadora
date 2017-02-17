@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="numero">Escribe aqui</string>
+    <string name="n1">7</string>
+    <string name="n2">8</string>
+    <string name="n3">9</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">1</string>
+    <string name="n8">2</string>
+    <string name="n9">3</string>
+    <string name="n10">0</string>
+    <string name="btndivide">/</string>
+    <string name="btnmultiplica">*</string>
+    <string name="btnresta">-</string>
+    <string name="btnsuma">+</string>
+    <string name="btnpunto">.</string>
+    <string name="btn0">0</string>
+    <string name="btnigual">=</string>
+    <string name="btnelimina">ELIMINAR</string>
+</resources>
